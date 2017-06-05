@@ -1,0 +1,68 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body
+{
+    background-color: #55417F;
+    margin-bottom: 50px;
+}
+
+h1, h2, h3
+{
+    color: #6b7f41;
+}
+
+nav, footer
+{
+    background-color: #414c7f !important;
+    border: none !important;
+    color: #4c7f41 !important;
+}
+
+nav a
+{
+    color: #4c7f41 !important;
+}
+
+nav li.active a
+{
+    background-color: #343c65 !important;
+}
+
+#homegrid img
+{
+    height: auto;
+    width: 100%;
+}
+
+#homegrid p
+{
+    color: #417f55;
+}
+
+#homegrid .col-md-4
+{
+    padding-bottom: 20px;
+}
+
+#homegrid h2
+{
+    padding-bottom: 20px;
+}
+
+#homegrid a
+{
+    text-decoration: none;
+}
+
+footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 50px;
+    width: 100%;
+    overflow: hidden;
+    padding-top: 15px;
+}
