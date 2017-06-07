@@ -3,7 +3,7 @@
 <div id="bugtracktor" class="row">
     <div class="col-xs-12">
         <h1>Bugtracktor</h1>
-        <a id="link" href="bugtracktor.cribellum.ru">See live <span class="glyphicon glyphicon-link" aria-hidden="true"></span></a>        
+        <a id="link" href="http://bugtracktor.cribellum.ru">See live <span class="glyphicon glyphicon-link" aria-hidden="true"></span></a>        
     </div>
     <div id="description" class="col-xs-12">
         <p>Bugtracktor is a simple bug tracking system, where you can:</p>

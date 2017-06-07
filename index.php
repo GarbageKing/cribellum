@@ -5,7 +5,7 @@
         <h1>Cribellum - creating web</h1>
         <h2>Projects:</h2>        
     </div>
-    <a href="http://cribellum.ru/bugtracktor.php"><div class="col-md-4">
+    <a href="bugtracktor.php"><div class="col-md-4">
         <img src="img/bugtracktor.png">
         <h3>Bugtracktor</h3>
         <p>Simple and clean bug tracker</p>
