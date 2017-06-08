@@ -25,7 +25,21 @@
             <li>Simple in terms of design (so your screen is not overloaded with elements)</li>
             <li>Fast enough</li>
         </ul>
-    </div>    
+    </div>  
+    <div id="tecs" class="col-xs-12">
+        Other than pretty standard PHP, MySql, HTML, CSS, jQuery, this project uses:
+        <div class="row">
+            <div class="col-xs-6 text-center">
+                <img src="img/yii2.png" />
+            </div>
+            <div class="col-xs-6 text-center">
+                <img src="img/bootstrap.png" />
+            </div>
+        </div>
+    </div>
+    <div id="github" class="col-xs-12 text-center">
+        <a href="https://github.com/GarbageKing/Bugtracktor">See on Github <i class="fa fa-github-alt fa-5x" aria-hidden="true"></i></a>
+    </div>
 </div>
 
 <?php include_once 'includes/footer.php'; ?>

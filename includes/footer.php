@@ -7,6 +7,25 @@
 
 <script src="js/jquery-3.2.0.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
+<script>
+    $(document).ready(function(){
+            
+        $('ul.navbar-nav li').removeClass('active');
+        
+        var path = window.location.pathname;
+            
+        $('ul.navbar-nav li a').each(function(){
+            
+        if (path.indexOf($(this).attr('href')) >= 0)
+        {
+            
+            $(this).parent().addClass('active');
+        }
+            
+        });        
+        
+    });
+</script>
     </body>
 </html>
 

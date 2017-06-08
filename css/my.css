@@ -7,7 +7,7 @@ body
 {
     background-color: #55417F;
     margin-bottom: 50px;
-    color: #232222;
+    color: #eee;
 }
 
 h1, h2, h3
@@ -66,4 +66,22 @@ footer {
     width: 100%;
     overflow: hidden;
     padding-top: 15px;
+}
+
+#tecs> .row
+{
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+#about #github
+{
+    margin-top: 40px;
+}
+
+#contact input, textarea, .btn
+{
+    background-color: rgba(255, 255, 255, 0) !important;
+    border-color: #4c7f41 !important;
+    color: #eee !important;
 }
