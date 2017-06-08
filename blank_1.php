@@ -13,7 +13,7 @@
             Quick salvation - add a space before dot in address or something...</p>    
     </div>  
     <div id="tecs" class="col-xs-12">
-        Other than pretty standard PHP, MySql, HTML, CSS this project uses (mostly as experiment):
+        Other than pretty standard PHP, MySql, HTML, CSS this project uses (mostly as an experiment):
         <div class="row">
             <div class="col-xs-12 text-center">
                 <img src="img/pure.png" />

@@ -85,3 +85,8 @@ footer {
     border-color: #4c7f41 !important;
     color: #eee !important;
 }
+
+#contact h1
+{
+    margin-bottom: 40px !important;
+}

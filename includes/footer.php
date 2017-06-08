@@ -13,12 +13,14 @@
         $('ul.navbar-nav li').removeClass('active');
         
         var path = window.location.pathname;
-            
+        
+        if(path.indexOf('.php') == -1)
+        path = 'index.php';
+                
         $('ul.navbar-nav li a').each(function(){
             
         if (path.indexOf($(this).attr('href')) >= 0)
-        {
-            
+        {            
             $(this).parent().addClass('active');
         }
             
