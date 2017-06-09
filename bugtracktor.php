@@ -29,10 +29,10 @@
     <div id="tecs" class="col-xs-12">
         Other than pretty standard PHP, MySql, HTML, CSS, jQuery, this project uses:
         <div class="row">
-            <div class="col-xs-6 text-center">
+            <div class="col-xs-12 col-md-6 text-center">
                 <img src="img/yii2.png" />
             </div>
-            <div class="col-xs-6 text-center">
+            <div class="col-xs-12 col-md-6 text-center">
                 <img src="img/bootstrap.png" />
             </div>
         </div>

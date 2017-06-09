@@ -90,3 +90,10 @@ footer {
 {
     margin-bottom: 40px !important;
 }
+
+#tecs img 
+{
+    height: 100%;
+    width:auto;
+    max-width:100%;     
+}
